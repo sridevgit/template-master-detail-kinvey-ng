@@ -15,7 +15,8 @@
     "appbuilder",
     "template",
     "master-detail",
-    "kinvey"
+    "kinvey",
+    "category-general"
   ],
   "repository": {
     "type": "git",
